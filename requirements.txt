@@ -1,0 +1,5 @@
+fastapi  # Framework para crear APIs REST (Como flask)
+uvicorn[standard]  # Servidor de desarrollo
+sqlalchemy  # ORM para interactuar con la base de datos
+pydantic  # Validación de datos automática
+python-dotenv  # Cargar variables de entorno
